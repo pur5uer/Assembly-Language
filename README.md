@@ -1,2 +1,2 @@
-# Assembly-Language
-MINEN - 汇编扫雷
+# MINEN
+汇编扫雷
